@@ -1,4 +1,4 @@
 interface:
   display_name: "日常照片情绪作品页"
   short_description: "把日常照片转译成高饱和、留白有序的 ZINE 情绪作品页"
-  default_prompt: "使用 $daily-photo-playground，把这张日常照片重构为 3:4 高饱和情绪作品页，保留连续留白、完整小照片窗口、纯色几何与衬线体边缘排版。"
+  default_prompt: "使用 $daily-photo-playground，把这张日常照片重构为 3:4 高饱和情绪作品页；先锁定约 70–78% 的暖白连续留白和完整静区，再安排内部版心、主体切出、一个完整小照片窗口、纯色几何与克制排版。留白不足时直接重做。"
